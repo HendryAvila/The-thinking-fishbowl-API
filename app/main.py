@@ -36,7 +36,7 @@ get_db()
 
 @app.get("/")
 async def  root():
-    return {"message": "Welcome to The thinking fishbowl!"}
+    return {"message": "Welcome to The thinking fishbowl!!"}
 
 
 '''
